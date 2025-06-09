@@ -1,5 +1,4 @@
 # PPII
-Para trabajar con proyectos educativos
 ¡Bienvenidos al repositorio de entregas! 🎉
 
 Aquí encontrarás las instrucciones para subir tu trabajo de forma correcta. Esta guía está pensada para ayudarte en tu entrega.
