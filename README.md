@@ -6,8 +6,19 @@ Aquí encontrarás las instrucciones para subir tu trabajo de forma correcta. Es
 
 📌 Pasos para entregar tu trabajo
 
-1. **Cloná el repositorio** en tu computadora:
+👉1. **Cloná el repositorio** en tu computadora:
 
 ```bash
-git clone https://github.com/NOMBRE-USUARIO/NOMBRE-REPO.git
-cd NOMBRE-REPO
+git clone https://github.com/AKARINAM/PPII.git
+
+👉2. **Cambiá a la rama de entregas**
+git checkout entregas-estudiantes
+
+👉3. Crea una carpeta con tu nombre dentro de entregas/, por ejemplo:
+mkdir entregas/lucas-perez
+
+👉4.Subí tu trabajo
+git add entregas/lucas-perez
+git commit -m "Entrega de Luacas Pérez - One Page"
+git push origin entregas-estudiantes
+
