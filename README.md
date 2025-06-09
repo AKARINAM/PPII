@@ -19,5 +19,5 @@ mkdir onepage/lucas-perez
 👉4.Subí tu trabajo
 git add onepage/lucas-perez
 git commit -m "Entrega de Lucas Pérez - One Page"
-git push origin entregas-estudiantes
+git push origin Entregas-onePage
 
