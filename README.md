@@ -11,7 +11,7 @@ Aquí encontrarás las instrucciones para subir tu trabajo de forma correcta. Es
 git clone https://github.com/AKARINAM/PPII.git
 
 👉2. **Cambiá a la rama de entregas**
-git checkout entregas-onePage
+git checkout Entregas-onePage
 
 👉3. Crea una carpeta con tu nombre dentro de entregas/, por ejemplo:
 mkdir onepage/lucas-perez
