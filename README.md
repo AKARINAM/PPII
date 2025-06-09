@@ -16,6 +16,13 @@ git checkout Entregas-onePage
 👉3. Crea una carpeta con tu nombre dentro de entregas/, por ejemplo:
 mkdir onepage/lucas-perez
 
+ESTRUCTURA de la Carpeta:
+entregas/
+└── nombre-del-estudiante/
+    ├── HTML/
+    ├── CSS/
+    ├── JS/
+    └── IMAGEN/
 👉4.Subí tu trabajo
 git add onepage/lucas-perez
 git commit -m "Entrega de Lucas Pérez - One Page"
