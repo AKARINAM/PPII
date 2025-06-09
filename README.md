@@ -14,10 +14,10 @@ git clone https://github.com/AKARINAM/PPII.git
 git checkout entregas-estudiantes
 
 👉3. Crea una carpeta con tu nombre dentro de entregas/, por ejemplo:
-mkdir entregas/lucas-perez
+mkdir onepage/lucas-perez
 
 👉4.Subí tu trabajo
-git add entregas/lucas-perez
-git commit -m "Entrega de Luacas Pérez - One Page"
+git add onepage/lucas-perez
+git commit -m "Entrega de Lucas Pérez - One Page"
 git push origin entregas-estudiantes
 
